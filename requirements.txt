@@ -1,0 +1,12 @@
+pandas 
+langchain 
+pinecone
+sentence-transformers
+groq
+tqdm
+streamlit
+langchain-community
+python-dotenv
+langchain-openai
+openpyxl
+langchain-google-genai
